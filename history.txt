@@ -1,0 +1,19 @@
+3621d30 2026-11-03 4517 Малашенко Н.В. Add report text and command log
+901501d 2026-11-03 4517 Малашенко Н.В. Add screenshots for steps 1-12
+8071791 2026-11-03 4517 Малашенко Н.В. Merge branch 'master' into report
+12ea6da 2026-11-03 4517 Малашенко Н.В. Restore full mergefile.txt after conflict resolution
+3f890d1 2026-11-03 4517 Малашенко Н.В. Merge branch 'master' into report
+633d457 2026-11-03 4517 Малашенко Н.В. Merge side into master, resolve conflict in mergefile.txt
+bae3452 2026-11-03 4517 Малашенко Н.В. Save work
+94364cd 2026-11-03 4517 Малашенко Н.В. Revert "Add third line to work.txt"
+6262a53 2026-11-03 4517 Малашенко Н.В. Add third line to work.txt
+7518acf 2026-11-03 4517 Малашенко Н.В. Add second line to work.txt
+08b75e4 2026-11-03 4517 Малашенко Н.В. Add work.txt with first line
+608428b 2026-11-03 4517 Малашенко Н.В. Merge side into master, resolve conflict in mergefile.txt
+23b8c39 2026-11-03 4517 Малашенко Н.В. Edit mergefile.txt in side branch
+f02ab46 2026-11-03 nikitamalash Create 1.txt
+44f4912 2026-11-03 nikitamalash Delete 1
+f380042 2026-11-03 nikitamalash Create 1
+921f53b 2020-11-21 Kurtyanik Обновление информации
+c08a654 2020-11-21 Kurtyanik Файл создан пустым
+3c6e913 2020-11-21 Kurtyanik Initial commit
